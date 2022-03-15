@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+<item
+    android:id="@+id/deneme"
+    android:visible="false"></item>
+    <item
+        android:id="@+id/market"
+        android:title="Market"
+        android:icon="@drawable/ic_baseline_shop_24"/>
+    <item
+    android:id="@+id/mesajlar"
+    android:title="Mesajlar"
+    android:icon="@drawable/ic_baseline_local_post_office_24"/>
+
+<item
+    android:id="@+id/sohbet"
+    android:title="Sohbet"
+    android:icon="@drawable/ic_baseline_message_24"/>
+
+    <item
+        android:id="@+id/siralama"
+        android:title="Sıralama"
+        android:icon="@drawable/ic_baseline_format_list_numbered_24"/>
+
+
+</menu>

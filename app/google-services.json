@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070923500085",
+    "project_id": "ticaretsimulator-aaa4e",
+    "storage_bucket": "ticaretsimulator-aaa4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070923500085:android:e109a1a7de6d6001fe3f7c",
+        "android_client_info": {
+          "package_name": "com.enesgul.ticaretsmilator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070923500085-lqn20vqprebk2rfbn8c1rvf04emcpff2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ_zccpAeD18rqbpMYzUFEkD4ERauhWZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070923500085-lqn20vqprebk2rfbn8c1rvf04emcpff2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
